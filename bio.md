@@ -2,3 +2,5 @@ My name is Eric LaRue.  I live in Salem, OR with my wife and two children.  I am
 
 Programming background
 During my coursework at Oregon State, my programming experience has largely been in C.  My first courses were taught using C++.  I have also had experience in MASM, HTML, Javascript, PHP, and SQL.
+
+In the immediate future, I have registered to take some extracurricular tutorials in Java, Python, Ruby, Unity 3D, and C#.
