@@ -3,6 +3,4 @@ My name is Eric LaRue.  I live in Salem, OR with my wife and two children.  I am
 Prior to moving to Salem, I lived in Newark, NJ and commuted to Manhattan to work for TransPerfect Translations, a job I had since 2008.  I left that job in September of 2014, while in the midst of my OSU CS program, and moved to Salem, where I have been studying full time ever since.
 
 Programming background
-During my coursework at Oregon State, my programming experience has largely been in C.  My first courses were taught using C++.  I have also had experience in MASM, HTML, Javascript, PHP, and SQL.
-
-In the immediate future, I have registered to take some extracurricular tutorials in Java, Python, Ruby, Unity 3D, and C#.
+During my coursework at Oregon State, my programming experience has largely been in C.  My first courses were taught using C++.  I have also had experience in MASM, HTML, Javascript, PHP, and SQL.  I am currently supplementing my OSU education with online tutorials offered by Mammoth Interactive and Udemy.  In the immediate future, I have registered to take some extracurricular tutorials in Java, Python, Ruby, Unity 3D, and C#.
